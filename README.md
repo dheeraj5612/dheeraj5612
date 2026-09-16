@@ -1,6 +1,6 @@
 # Dheeraj Namburu
 
-Senior Software Engineer building AI systems, developer tools, and customer-facing products.
+Software Engineer at Microsoft building AI systems, developer tools, and customer-facing products.
 
 I work across product requirements, backend systems, integrations, release workflows, and production operations. At Microsoft, I build C#/.NET services and AI-adjacent tooling with approval gates, validation, observability, and reliable rollout paths. I am exploring Forward Deployed Engineer and Applied AI roles where I can work closely with customers and turn ambiguous problems into shipped systems.
 
