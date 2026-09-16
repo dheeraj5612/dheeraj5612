@@ -6,7 +6,7 @@ I build production integrations and AI tools, from ambiguous requirements throug
 
 **Open to FDE and Applied AI roles:** New York City or remote preferred; also open to San Francisco.
 
-[Portfolio](https://dheerajnamburu.com) · [Résumé](https://dheerajnamburu.com/Dheeraj-Namburu-Resume.pdf) · [LinkedIn](https://www.linkedin.com/in/dheeraj-n) · [Email](mailto:dheerajnamburu@gmail.com)
+[Résumé](https://github.com/dheeraj5612/dheeraj5612.github.io/blob/main/Dheeraj-Namburu-Resume.pdf) · [LinkedIn](https://www.linkedin.com/in/dheeraj-n) · [Email](mailto:dheerajnamburu@gmail.com)
 
 ## Selected work
 
